@@ -1,0 +1,7 @@
+#formRow,#editRow,#editFormRow {
+  display: none;
+}
+
+button {
+  box-shadow: none !important;
+}
